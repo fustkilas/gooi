@@ -6,4 +6,4 @@ gooi applies random Google Fonts typefaces on a per-character, word, clause, sen
 
 For optimal results (and not to hammer the Google Fonts API, use gooi sparingly). 
 
-gooi is a part of c.r.u.d by BRUD ™, a framework for dissonant architecture.
+gooi is a part of c.r.u.d by BRUD™, a framework for dissonant architecture.
