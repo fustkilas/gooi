@@ -1,0 +1,9 @@
+gooi, by brud
+
+Use gooi for Delightful Typographic Clusterflux™.
+
+gooi applies random Google Fonts typefaces on a per-character, word, clause, sentence, or paragraph basis.
+
+For optimal results (and not to hammer the Google Fonts API, use gooi sparingly). 
+
+gooi is a part of {{{ crud by brud }}}™, a framework for dissonant architecture.
