@@ -1,6 +1,6 @@
 {
   "name": "gooi",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Typographic Clusterflux",
   "main": "index.js",
   "scripts": {
@@ -23,5 +23,6 @@
   "bugs": {
     "url": "https://github.com/fustkilas/gooi/issues"
   },
-  "homepage": "https://github.com/fustkilas/gooi#readme"
+  "homepage": "https://github.com/fustkilas/gooi#readme",
+  "dependencies": {}
 }
